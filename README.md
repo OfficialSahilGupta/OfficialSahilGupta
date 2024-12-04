@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Sahil Gupta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNyNWkxMnE0MW5xZGRpYXlscXVuMmxxajN1ZzJ5NmQ1dW0wNmVkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hhrh8F1CWh0AMImRas/giphy.gif" width="230">
 
 <p><em>Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
