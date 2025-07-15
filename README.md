@@ -8,7 +8,7 @@
 [![Linkedin: Sahil Gupta](https://img.shields.io/badge/-imsahilgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsahilgupta/)](https://www.linkedin.com/in/imsahilgupta/)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sahilgupta8.com.np/)](https://sahilgupta8.com.np/)
 ![GitHub followers](https://img.shields.io/github/followers/OfficialSahilGupta?label=Follow&style=social)
-![LeetCode User](https://img.shields.io/badge/LeetCode-Problem%20Solver-orange)
+![LeetCode User](https://leetcode.com/u/TheSahilGupta/)
 
 ### 📫 Like to meet me?
 
